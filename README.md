@@ -17,6 +17,6 @@ npm run dev
 **Build**
 
 ```bash
-npm run dev
+npm run build
 npm run serve
 ```
